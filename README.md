@@ -1,5 +1,5 @@
 # EX3 Implementation-of-Linear-Regression-Using-Gradient-Descent
-
+## DATE:
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
@@ -21,7 +21,7 @@ To write a program to predict the profit of a city using the linear regression m
 /*
 Program to implement the linear regression using gradient descent.
 Developed by:N.Mahesh 
-RegisterNumber:
+RegisterNumber:2305001017
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -51,7 +51,7 @@ print(f"predicted value: {pre}")
 ```
 
 ## Output:
-![Screenshot 2024-10-05 135233](https://github.com/user-attachments/assets/55cb73bb-3048-45c5-be23-9400a5d314ea)
+![WhatsApp Image 2024-10-03 at 14 39 08_30c97a9d](https://github.com/user-attachments/assets/e55e9f98-be99-4769-8fb7-ec512ca76907)
 
 
 
